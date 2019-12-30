@@ -1,1 +1,1 @@
-exa..
+puts "sastra"
